@@ -1777,7 +1777,7 @@ __metadata:
     tsup: ^5.11.13
     typedoc: ^0.22.11
     typescript: ^4.5.5
-    zod: ^3.11.6
+    zod: ^3.22.3
   languageName: unknown
   linkType: soft
 
@@ -11308,9 +11308,9 @@ dts-critic@latest:
   languageName: node
   linkType: hard
 
-"zod@npm:^3.11.6":
-  version: 3.11.6
-  resolution: "zod@npm:3.11.6"
-  checksum: 044ac416450f179a0c88240f27849d2886c777cebade42df10e5f04125b0265cec82d9bd741a7dcb11796b2ea88b32c86be7d36932a4bed6af57002560359db1
+"zod@npm:^3.22.3":
+  version: 3.22.4
+  resolution: "zod@npm:3.22.4"
+  checksum: 80bfd7f8039b24fddeb0718a2ec7c02aa9856e4838d6aa4864335a047b6b37a3273b191ef335bf0b2002e5c514ef261ffcda5a589fb084a48c336ffc4cdbab7f
   languageName: node
   linkType: hard
